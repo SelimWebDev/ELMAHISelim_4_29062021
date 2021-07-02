@@ -1052,3 +1052,28 @@ h4 {
 .black-text {
     color: black!important;
 }
+
+.desc p {
+    text-align: center;
+    font-size: x-large;
+}
+
+.citation p {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.citation p q {
+    font-size: x-large;
+}
+
+.citation p span {
+    margin-top: 10px;
+    font-size: medium;
+    display: block;
+}
+
+.realisation p {
+    text-align: center;
+    font-size: x-large;
+}
