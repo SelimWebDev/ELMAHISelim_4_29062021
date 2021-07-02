@@ -1081,3 +1081,14 @@ h4 {
 .black-btn {
     color: black!important;
 }
+
+@media screen and (max-width: 480px) {
+    .col-sm-4 li {
+        height: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px
+    }
+    .col-sm-4 li a {
+        height: 100%;
+    }
+}
