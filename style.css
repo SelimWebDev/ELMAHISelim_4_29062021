@@ -1077,3 +1077,7 @@ h4 {
     text-align: center;
     font-size: x-large;
 }
+
+.black-btn {
+    color: black!important;
+}
