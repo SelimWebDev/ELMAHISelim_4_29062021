@@ -1097,4 +1097,11 @@ h4 {
     .col-sm-4 li a {
         height: 100%;
     }
+
+    #email,
+    #name {
+        min-height: 48px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
 }
